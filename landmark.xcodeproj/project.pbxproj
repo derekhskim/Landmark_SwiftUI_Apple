@@ -20,6 +20,8 @@
 		651E0D382B50DECB0007DC22 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 651E0D372B50DECB0007DC22 /* LandmarkList.swift */; };
 		651E0D3A2B50DF260007DC22 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 651E0D392B50DF260007DC22 /* LandmarkDetail.swift */; };
 		651E0D3C2B5389280007DC22 /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 651E0D3B2B5389280007DC22 /* FavoriteButton.swift */; };
+		65CDBA992B53B4F9000E8ED5 /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65CDBA982B53B4F9000E8ED5 /* HexagonParameters.swift */; };
+		65CDBA9B2B53B89B000E8ED5 /* BadgeBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65CDBA9A2B53B89B000E8ED5 /* BadgeBackground.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +39,8 @@
 		651E0D372B50DECB0007DC22 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 		651E0D392B50DF260007DC22 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		651E0D3B2B5389280007DC22 /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
+		65CDBA982B53B4F9000E8ED5 /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
+		65CDBA9A2B53B89B000E8ED5 /* BadgeBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeBackground.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +74,7 @@
 			isa = PBXGroup;
 			children = (
 				651E0D1A2B50D69A0007DC22 /* landmarkApp.swift */,
+				65CDBA982B53B4F9000E8ED5 /* HexagonParameters.swift */,
 				651E0D322B50DDC70007DC22 /* Views */,
 				651E0D332B50DDCC0007DC22 /* Model */,
 				651E0D342B50DDD00007DC22 /* Resources */,
@@ -93,6 +98,7 @@
 				651E0D1C2B50D69A0007DC22 /* ContentView.swift */,
 				651E0D3D2B5389730007DC22 /* Landmarks */,
 				651E0D3E2B5389770007DC22 /* Helper */,
+				65CDBA9A2B53B89B000E8ED5 /* BadgeBackground.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -209,8 +215,10 @@
 				651E0D2B2B50D83F0007DC22 /* MapView.swift in Sources */,
 				651E0D1B2B50D69A0007DC22 /* landmarkApp.swift in Sources */,
 				651E0D3C2B5389280007DC22 /* FavoriteButton.swift in Sources */,
+				65CDBA992B53B4F9000E8ED5 /* HexagonParameters.swift in Sources */,
 				651E0D382B50DECB0007DC22 /* LandmarkList.swift in Sources */,
 				651E0D3A2B50DF260007DC22 /* LandmarkDetail.swift in Sources */,
+				65CDBA9B2B53B89B000E8ED5 /* BadgeBackground.swift in Sources */,
 				651E0D292B50D7F30007DC22 /* CircleImage.swift in Sources */,
 				651E0D2F2B50DB090007DC22 /* Landmark.swift in Sources */,
 				651E0D362B50DE210007DC22 /* LandmarkRow.swift in Sources */,
