@@ -115,9 +115,9 @@
 		651E0D332B50DDCC0007DC22 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				6538C29B2B56365C003BF030 /* Hike.swift */,
 				651E0D2E2B50DB090007DC22 /* Landmark.swift */,
 				651E0D302B50DCA10007DC22 /* ModelData.swift */,
-				6538C29B2B56365C003BF030 /* Hike.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
